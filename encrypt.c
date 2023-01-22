@@ -6,7 +6,7 @@ int main(){
     char frase[100];
     int key;
 
-    system("cls");
+    system("cls||clear");
 
     printf("enter the phrase to encrypt: ");
     gets(frase);
