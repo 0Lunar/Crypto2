@@ -8,7 +8,7 @@ int main(){
 
     system("cls");
 
-    printf("enter the phrase to encrypt: ");
+    printf("enter the phrase to decrypt: ");
     gets(frase);
 
     printf("\nEnter the numeric key: ");
